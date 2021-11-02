@@ -1,0 +1,24 @@
+{
+  "name": "bookstrap",
+  "version": "1.0.0",
+  "description": "2021 UD2B 10/26",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1109211068/2021-UD2B.git"
+  },
+  "author": "1109211068",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1109211068/2021-UD2B/issues"
+  },
+  "homepage": "https://github.com/1109211068/2021-UD2B#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.1.3"
+  }
+}
